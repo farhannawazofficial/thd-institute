@@ -1,0 +1,33 @@
+.tracks-section {
+    text-align: center;
+    padding: 50px;
+    background-color: #f9f9f9;
+  }
+  
+  .tracks-section h2 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .tracks-section p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .tracks-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 30px;
+  }
+  
+  .see-more-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+    cursor: pointer;
+  }
+  

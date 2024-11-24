@@ -1,0 +1,41 @@
+.premium-experience-section {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .experience-header h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  .highlight {
+    color: #2d9c2d;
+  }
+  
+  .experience-points {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 20px;
+  }
+  
+  .point {
+    display: flex;
+    align-items: center;
+    text-align: left;
+  }
+  
+  .point-icon img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .point-details h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .point-details p {
+    color: #666;
+  }
+  

@@ -1,0 +1,45 @@
+.teacher-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .teacher-image {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .teacher-details {
+    margin-top: 20px;
+  }
+  
+  .teacher-details h3 {
+    font-size: 22px;
+    margin-bottom: 5px;
+  }
+  
+  .teacher-details p {
+    color: #888;
+    margin: 5px 0;
+  }
+  
+  .teacher-details h4 {
+    color: #f84d4d;
+    margin-top: 10px;
+  }
+  
+  .social-icons {
+    margin-top: 15px;
+  }
+  
+  .social-icons a {
+    margin-right: 10px;
+  }
+  
+  .social-icons img {
+    width: 20px;
+    height: 20px;
+  }
+  
